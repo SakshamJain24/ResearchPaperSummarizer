@@ -47,6 +47,12 @@ Key Features:
 - **ROUGE Evaluation**: Provides evaluation scores to assess the quality of generated summaries.
 - **OCR for Images**: Handles PDFs with images using OCR to extract text.
 
+## Extractive vs Abstractive Summarization
+
+- **Extractive Summarization**: In extractive summarization, the algorithm selects key sentences or phrases directly from the original text and combines them to form a summary. It does not create new sentences but rather extracts the most relevant portions of the source content.
+  
+- **Abstractive Summarization**: Abstractive summarization involves generating a summary that may contain new sentences and paraphrased content, not directly copied from the original text. This method aims to understand the underlying meaning and generate a concise summary that reflects the core ideas in a more natural language.
+
 ## Installation
 
 To set up this project, you need to install the necessary dependencies:
